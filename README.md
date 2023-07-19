@@ -1,1 +1,3 @@
 # SimpleServerSetupForLab
+## Diclaimer: Please use this repo only as a guidance. Different Linux distribution may have different command for setup. This repo is based on Ubuntu 18.04 and 22.04. Use this guide with caution. 
+#### This is intended to be a simple server setup procedure with pre-installed Ubuntu system for anyone who is struggling with installing rack server for their first time in a lab. Note that this repo only contains most basic setup. If you encounter any problems, google it. If google's not helping, try to ask ChatGPT. Your last resort will always be IT services in your institution. 
